@@ -1,0 +1,520 @@
+body {
+    background-image: url("../images/white-waves.png");
+    background-size: auto;
+    color: #777777;
+    height: 100%;
+    position: relative;
+}
+
+.white {
+    background-color: #ffffff;
+    height: 55px;
+    width: 100%;
+    border-bottom: 10px solid #cccccc;
+}
+
+Header {
+    width: 100%;
+    background-color: #ffffff;
+    height: 50px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+ul {
+    list-style: none;
+    width: 770px;
+    margin: 0 auto;
+}
+
+li {
+    display: inline-block;
+    font-size: .20in;
+    padding-top: 30px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+li a {
+    text-decoration: none;
+    color: #777777;
+}
+
+#Kelsey {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 39px;
+    padding-top: 16px;
+    font-size: .30in;
+    width: 200px;
+    text-align: center;
+}
+
+.buttons {
+    float: right;
+    text-decoration: none;
+}
+
+main {
+    clear: both;
+    background: #ffffff;
+    border: 5px solid #cccccc;
+    width: 960px;
+    margin: 90px auto;
+}
+
+.juice {
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 140px;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-size: .25in;
+}
+
+img {
+    float: left;
+    padding: 15px;
+}
+
+label {
+    padding: 10px;
+
+}
+
+input {
+    padding: 10px;
+}
+
+#text {
+    width: 97%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#email {
+    width: 97%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#message {
+    margin-top: 20px;
+    width: 99%;
+    height: 120px;
+    resize: none;
+}
+
+footer {
+    clear: both;
+    background-color: #4aaaa5;
+    height: 45px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h3 {
+    background-color: #666666;
+    text-align: center;
+    height: 35px;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+@media only screen and (max-width:980px) {
+    
+    body {
+        background-image: url("../images/white-waves.png");
+        background-size: auto;
+        color: #777777;
+        height: 100%;
+        position: relative;
+    }
+    
+    .white {
+        background-color: #ffffff;
+        height: 55px;
+        width: 100%;
+        border-bottom: 10px solid #cccccc;
+    }
+    
+    Header {
+        width: 100%;
+        background-color: #ffffff;
+        height: 50px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    
+    
+    ul {
+        list-style: none;
+        width: 770px;
+        margin: 0 auto;
+    }
+    
+    li {
+        display: inline-block;
+        font-size: .20in;
+        padding-top: 30px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    
+    li a {
+        text-decoration: none;
+        color: #777777;
+    }
+    
+    #Kelsey {
+        background-color: #4aaaa5;
+        color: #ffffff;
+        height: 39px;
+        padding-top: 16px;
+        font-size: .30in;
+        width: 200px;
+        text-align: center;
+    }
+    
+    .buttons {
+        float: right;
+        text-decoration: none;
+    }
+    
+    main {
+        clear: both;
+        background: #ffffff;
+        border: 5px solid #cccccc;
+        width: 770px;
+        margin: 90px auto;
+    }
+    
+    .juice {
+        width: 740px;
+        margin: 0 auto;
+        padding-top: 60px;
+        padding-bottom: 140px;
+    }
+    
+    h1 {
+        color: #4aaaa5;
+        font-size: .25in;
+    }
+    
+    img {
+        float: left;
+        padding: 15px;
+    }
+    
+    label {
+        padding: 10px;
+    
+    }
+    
+    input {
+        padding: 10px;
+    }
+    
+    #text {
+        width: 95%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #email {
+        width: 95%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #message {
+        margin-top: 20px;
+        width: 98%;
+        height: 120px;
+        resize: none;
+    }
+    
+    footer {
+        clear: both;
+        background-color: #4aaaa5;
+        height: 45px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    h3 {
+        background-color: #666666;
+        text-align: center;
+        height: 35px;
+        color: #ffffff;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    
+}
+
+@media only screen and (max-width:768px) {
+    body {
+        background-image: url("../images/white-waves.png");
+        background-size: auto;
+        color: #777777;
+        height: 100%;
+        position: relative;
+    }
+    
+    .white {
+        background-color: #ffffff;
+        height: 55px;
+        width: 100%;
+        border-bottom: 10px solid #cccccc;
+    }
+    
+    Header {
+        width: 100%;
+        background-color: #ffffff;
+        height: 50px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    
+    
+    ul {
+        list-style: none;
+        width: 640px;
+        margin: 0 auto;
+    }
+    
+    li {
+        display: inline-block;
+        font-size: .20in;
+        padding-top: 30px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    
+    li a {
+        text-decoration: none;
+        color: #777777;
+    }
+    
+    #Kelsey {
+        background-color: #4aaaa5;
+        color: #ffffff;
+        height: 39px;
+        padding-top: 16px;
+        font-size: .30in;
+        width: 200px;
+        text-align: center;
+    }
+    
+    .buttons {
+        float: right;
+        text-decoration: none;
+    }
+    
+    main {
+        clear: both;
+        background: #ffffff;
+        border: 5px solid #cccccc;
+        width: 640px;
+        margin: 90px auto;
+    }
+    
+    .juice {
+        width: 620px;
+        margin: 0 auto;
+        padding-top: 60px;
+        padding-bottom: 140px;
+    }
+    
+    h1 {
+        color: #4aaaa5;
+        font-size: .25in;
+    }
+    
+    img {
+        float: left;
+        padding: 15px;
+    }
+    
+    label {
+        padding: 10px;
+    
+    }
+    
+    input {
+        padding: 10px;
+    }
+    
+    #text {
+        width: 95%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #email {
+        width: 95%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #message {
+        margin-top: 20px;
+        width: 90%;
+        height: 120px;
+        resize: none;
+    }
+    
+    footer {
+        clear: both;
+        background-color: #4aaaa5;
+        height: 45px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    h3 {
+        background-color: #666666;
+        text-align: center;
+        height: 35px;
+        color: #ffffff;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }    
+}
+
+@media only screen and (max-width:640px) {
+    body {
+        background-image: url("../images/white-waves.png");
+        background-size: auto;
+        color: #777777;
+        height: 100%;
+        position: relative;
+    }
+    
+    .white {
+        background-color: #ffffff;
+        height: 55px;
+        width: 100%;
+        border-bottom: 10px solid #cccccc;
+    }
+    
+    Header {
+        width: 100%;
+        background-color: #ffffff;
+        height: 50px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    
+    
+    ul {
+        width: 450px;
+        margin: 0 auto;
+    }
+    
+    li {
+        font-size: .20in;
+        padding-top: 30px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+    
+    li a {
+        text-decoration: none;
+        color: #777777;
+    }
+    
+    #Kelsey {
+        background-color: #4aaaa5;
+        color: #ffffff;
+        height: 39px;
+        padding-top: 16px;
+        font-size: .30in;
+        width: 200px;
+        text-align: center;
+    }
+    
+    .buttons {
+        text-decoration: none;
+    }
+    
+    main {
+        clear: both;
+        background: #ffffff;
+        border: 5px solid #cccccc;
+        width: 450px;
+        margin: 90px auto;
+    }
+    
+    .juice {
+        width: 400px;
+        margin: 0 auto;
+        padding-top: 60px;
+        padding-bottom: 140px;
+    }
+    
+    h1 {
+        color: #4aaaa5;
+        font-size: .25in;
+    }
+    
+    img {
+        float: left;
+        padding: 15px;
+    }
+    
+    label {
+        padding: 10px;
+    
+    }
+    
+    input {
+        padding: 10px;
+    }
+    
+    #text {
+        width: 95%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #email {
+        width: 95%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    
+    #message {
+        margin-top: 20px;
+        width: 98%;
+        height: 120px;
+        resize: none;
+    }
+    
+    footer {
+        clear: both;
+        background-color: #4aaaa5;
+        height: 45px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    h3 {
+        background-color: #666666;
+        text-align: center;
+        height: 35px;
+        color: #ffffff;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    
+}
+
+
+
